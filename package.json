@@ -27,7 +27,7 @@
     "esbuild": "^0.18.13",
     "esbuild-sass-plugin": "^2.10.0",
     "glob": "^8.1.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "jsdom": "^21.1.2",
     "markdown-it": "^13.0.1",
     "markdown-it-anchor": "^8.6.7",
